@@ -20,4 +20,10 @@
       <ProjectReference Include="..\..\src\VoxSmart.FinancialEntityExtractor\VoxSmart.FinancialEntityExtractor.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Update="DataSources\Currencies.csv">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>

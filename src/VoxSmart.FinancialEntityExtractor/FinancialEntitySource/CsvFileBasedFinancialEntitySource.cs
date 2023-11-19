@@ -10,7 +10,7 @@ public sealed class CsvFileBasedFinancialEntitySource<T> : IFinancialEntitySourc
 {
     private readonly string _fileName;
 
-    public CsvFileBasedFinancialEntitySource(string fileName) => _fileName = _fileName;
+    public CsvFileBasedFinancialEntitySource(string fileName) => _fileName = fileName;
 
     public async IAsyncEnumerable<FinancialEntity> GetFinancialEntitiesAsync([EnumeratorCancellation] CancellationToken cancellationToken)
     {
