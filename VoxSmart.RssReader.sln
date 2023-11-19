@@ -9,9 +9,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49F9BE53-D10
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0FE509F1-2AEE-4B6B-A9BE-93435250DEB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxSmart.FinancialEntityExtractor", "src\VoxSmart.FinancialEntityExtractor\VoxSmart.FinancialEntityExtractor.csproj", "{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxSmart.FinancialEntityExtractor.Tests", "test\VoxSmart.FinancialEntityExtractor.Tests\VoxSmart.FinancialEntityExtractor.Tests.csproj", "{D1E7585D-EC1B-4766-93BD-4D681506EDDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB} = {49F9BE53-D105-40F3-9E2F-4DFE0B4738B1}
+		{D1E7585D-EC1B-4766-93BD-4D681506EDDD} = {0FE509F1-2AEE-4B6B-A9BE-93435250DEB9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332FC329-6B74-4AD5-B7AA-3FE8AC7073AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E7585D-EC1B-4766-93BD-4D681506EDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E7585D-EC1B-4766-93BD-4D681506EDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E7585D-EC1B-4766-93BD-4D681506EDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E7585D-EC1B-4766-93BD-4D681506EDDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
