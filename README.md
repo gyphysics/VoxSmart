@@ -12,3 +12,4 @@ These sets of data are then consumed in an extractor class, which enumerates the
 - Searching is not currently performed on an entity's ticker/symbol - this could be implemented but thought needs to be given to the risk of it returning false positives (e.g. with simple ticker symbols such as `E`)
 - Pattern matching of text could be improved - currently it relies on a simple `string.Contains` implementation, but this may not match similar but not-quite matching values and will match values where the input text is very short/simple but does not represent a financial entity.
 - Validation of input data sources - values that are null, empty or too short to be useful should be excluded when reading data from any source.
+- The current search algorithm is not very efficient - there are multiple enumerations of financial data sources.  These could be cached into memory and performed in parallel by moving away from nested foreach loops.
