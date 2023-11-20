@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:wsj="http://dowjones.net/rss/" xmlns:dj="http://dowjones.net/rss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WSJ.com: Markets</title>
+        <link>http://online.wsj.com</link>
+        <atom:link type="application/rss+xml" rel="self" href="http://online.wsj.com"/>
+        <description>Markets</description>
+        <language>en-us</language>
+        <pubDate>Sun, 19 Nov 2023 05:31:33 -0500</pubDate>
+        <lastBuildDate>Sun, 19 Nov 2023 05:31:33 -0500</lastBuildDate>
+        <copyright>Dow Jones &amp; Company, Inc.</copyright>
+        <generator>http://online.wsj.com</generator>
+        <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+        <image>
+            <title>WSJ.com: Markets</title>
+            <link>http://online.wsj.com</link>
+            <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
+        </image>
+        <item>
+            <title>How a Hack Shook Wall Street's Multitrillion-Dollar Foundations</title>
+            <link>https://www.wsj.com/articles/how-a-hack-shook-wall-streets-multitrillion-dollar-foundations-6a574bd7?mod=rss_markets_main</link>
+            <description><![CDATA[The cyberattack on ICBC rekindled investors’ concerns about the repo market.]]></description>
+            <content:encoded/>
+            <pubDate>Sun, 19 Nov 2023 05:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001370737</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>Wall Street's ESG Craze Is Fading</title>
+            <link>https://www.wsj.com/articles/esg-branding-wall-street-0a487105?mod=rss_markets_main</link>
+            <description><![CDATA[Wall Street is quietly closing environmental, social and corporate-governance investment funds or scrubbing their names after disappointing returns.]]></description>
+            <content:encoded/>
+            <pubDate>Sun, 19 Nov 2023 05:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368634</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>Wall Street Has a Plan for a Soft Landing: Buy More Stocks</title>
+            <link>https://www.wsj.com/articles/wall-street-has-a-plan-for-a-soft-landing-buy-more-stocks-cecd4518?mod=rss_markets_main</link>
+            <description><![CDATA[Investors pile in, but some say it is too soon to declare victory.]]></description>
+            <content:encoded/>
+            <pubDate>Sat, 18 Nov 2023 21:00:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368302</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Stocks</wsj:articletype>
+        </item>
+        <item>
+            <title>The Estate Taxes Catching Americans by Surprise</title>
+            <link>https://www.wsj.com/articles/the-estate-taxes-catching-americans-by-surprise-488e08a9?mod=rss_markets_main</link>
+            <description><![CDATA[Seventeen states and the District of Columbia have estate or inheritance taxes or both. The rules can change from year to year.]]></description>
+            <content:encoded/>
+            <pubDate>Sat, 18 Nov 2023 21:00:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001370556</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Personal Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>A Ransomware Gang Wanted Its Victim to Pay Up. So It Went to the SEC.</title>
+            <link>https://www.wsj.com/articles/a-ransomware-gang-wanted-its-victim-to-pay-up-so-it-went-to-the-sec-803cf786?mod=rss_markets_main</link>
+            <description><![CDATA[The hackers didn’t wait for new rules, which would require companies to disclose major cybersecurity incidents, to go into effect.]]></description>
+            <content:encoded/>
+            <pubDate>Sat, 18 Nov 2023 10:00:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001371157</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Financial Regulation</wsj:articletype>
+        </item>
+        <item>
+            <title>Clean-Energy Startups Expected a Gusher of Government Money. They Are Still Waiting.</title>
+            <link>https://www.wsj.com/articles/clean-energy-startups-expected-a-gusher-of-government-money-they-are-still-waiting-42fecc7a?mod=rss_markets_main</link>
+            <description><![CDATA[Companies often need to show progress to get government cash but struggle without it.]]></description>
+            <content:encoded/>
+            <pubDate>Sat, 18 Nov 2023 05:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001370507</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>Embattled FDIC Chief Takes Responsibility for Toxic Workplace Culture</title>
+            <link>https://www.wsj.com/articles/embattled-fdic-chief-takes-responsibility-for-toxic-workplace-culture-078b8aee?mod=rss_markets_main</link>
+            <description><![CDATA[In staff video, Martin Gruenberg indicates he won’t resign in the face of congressional pressure.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 18:21:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001371948</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Financial Regulation</wsj:articletype>
+        </item>
+        <item>
+            <title>The Score: Target, Boeing, Macy's and More Stocks That Defined the Week</title>
+            <link>https://www.wsj.com/articles/the-score-target-boeing-macys-and-more-stocks-that-defined-the-week-286fb11f?mod=rss_markets_main</link>
+            <description><![CDATA[Here are some of the major companies whose stocks moved on the week’s news]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 18:15:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001370316</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Markets Main</wsj:articletype>
+        </item>
+        <item>
+            <title>Jim Chanos, Short Seller Who Took on Enron and Tesla, to Close Hedge Funds</title>
+            <link>https://www.wsj.com/articles/jim-chanos-short-seller-who-took-on-enron-and-tesla-to-close-hedge-funds-f66c5b64?mod=rss_markets_main</link>
+            <description><![CDATA[Chanos &amp; Co. manages less than $200 million today, down from $6 billion in 2008, after Tesla soared and as bearish strategies lose favor.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 17:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368394</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Hedge Funds</wsj:articletype>
+        </item>
+        <item>
+            <title>Stocks Advance For a Third Straight Week</title>
+            <link>https://www.wsj.com/articles/global-stocks-markets-dow-news-11-17-2023-6fb2a00b?mod=rss_markets_main</link>
+            <description><![CDATA[Major indexes extended gains on Friday; Benchmark yields held steady]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 16:37:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001371208</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Today's Markets</wsj:articletype>
+        </item>
+        <item>
+            <title>Obesity Drugs Put These Stocks on a Crash Diet---Now They're Rebounding</title>
+            <link>https://www.wsj.com/articles/obesity-drugs-put-these-stocks-on-a-crash-dietnow-theyre-rebounding-fb576bfd?mod=rss_markets_main</link>
+            <description><![CDATA[Medical-device investors bet new obesity drugs won’t cause as much pain as previously thought.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 10:54:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368598</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Heard on the Street</wsj:articletype>
+        </item>
+        <item>
+            <title>Gap Is Righting the Ship With Old Navy</title>
+            <link>https://www.wsj.com/articles/gap-is-righting-the-ship-with-old-navy-a1ddbf64?mod=rss_markets_main</link>
+            <description><![CDATA[Old Navy’s unexpectedly fast recovery bodes well for the company’s turnaround effort.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 07:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001369428</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Heard on the Street</wsj:articletype>
+        </item>
+        <item>
+            <title>Are Americans Falling Out of Love With EVs?</title>
+            <link>https://www.wsj.com/articles/are-americans-falling-out-of-love-with-evs-2c7e6a1a?mod=rss_markets_main</link>
+            <description><![CDATA[Manufacturers need to cut costs as electric-vehicle inventories pile up, but this is easier said than done.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 05:43:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001369862</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Heard on the Street</wsj:articletype>
+        </item>
+        <item>
+            <title>Where Have All the Foreign Buyers Gone for U.S. Treasury Debt?</title>
+            <link>https://www.wsj.com/articles/where-have-all-the-foreign-buyers-gone-for-u-s-treasury-debt-3db75625?mod=rss_markets_main</link>
+            <description><![CDATA[Overseas private investors and central banks now own about 30% of all outstanding U.S. government debt—down from roughly 43% a decade ago.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 05:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001367578</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>What's Behind the Market's Wild Overreactions</title>
+            <link>https://www.wsj.com/articles/whats-behind-the-markets-wild-overreactions-cae05ade?mod=rss_markets_main</link>
+            <description><![CDATA[There are deeper issues behind the rapid changes in the market story that are unlikely to be resolved soon.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 05:30:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001367737</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Streetwise</wsj:articletype>
+        </item>
+        <item>
+            <title>Avoiding China Has Been a Winning Investment Strategy. But It Isn't Easy.</title>
+            <link>https://www.wsj.com/articles/avoiding-china-has-been-a-winning-investment-strategy-but-it-isnt-easy-ea48de8d?mod=rss_markets_main</link>
+            <description><![CDATA[Chinese stocks have diverged from the rest of the emerging markets, but the country is still weighing heavily on other economies.]]></description>
+            <content:encoded/>
+            <pubDate>Fri, 17 Nov 2023 00:16:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001360451</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Stocks</wsj:articletype>
+        </item>
+        <item>
+            <title>Congrats, Your House Made You Rich. Now Sell It.</title>
+            <link>https://www.wsj.com/articles/baby-boomer-home-ownership-3ef78dfa?mod=rss_markets_main</link>
+            <description><![CDATA[Lots of baby boomers are going to sell their homes in the years ahead. The trick is to beat the crowd.]]></description>
+            <content:encoded/>
+            <pubDate>Thu, 16 Nov 2023 21:00:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368149</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Heard on the Street</wsj:articletype>
+        </item>
+        <item>
+            <title>Almost No One Pays a 6% Real-Estate Commission---Except Americans</title>
+            <link>https://www.wsj.com/articles/real-estate-buying-home-charts-6dc40caa?mod=rss_markets_main</link>
+            <description><![CDATA[How the rest of the world buys and sells homes explained, in three charts.]]></description>
+            <content:encoded/>
+            <pubDate>Thu, 16 Nov 2023 21:00:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001368070</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Personal Finance</wsj:articletype>
+        </item>
+        <item>
+            <title>Republicans Heap Pressure on FDIC's Gruenberg Over Claims of Toxic Workplace</title>
+            <link>https://www.wsj.com/articles/fdic-cancels-planned-board-meeting-after-reports-of-toxic-workplace-7f8faced?mod=rss_markets_main</link>
+            <description><![CDATA[The Journal reported that the environment at the bank regulator had driven many female bank examiners to quit.]]></description>
+            <content:encoded/>
+            <pubDate>Thu, 16 Nov 2023 19:15:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001367159</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Financial Regulation</wsj:articletype>
+        </item>
+        <item>
+            <title>Is the Stage Set for a Year-End Rally?</title>
+            <link>https://www.wsj.com/articles/is-the-stage-set-for-a-year-end-rally-f9fcf3a4?mod=rss_markets_main</link>
+            <description><![CDATA[With the good news about inflation and earnings already priced into the market, and bond yields offering stiff competition, there is less room for the usual seasonal rally.]]></description>
+            <content:encoded/>
+            <pubDate>Thu, 16 Nov 2023 17:07:00 -0500</pubDate>
+            <guid isPermaLink="false">WP-WSJ-0001366675</guid>
+            <category domain="AccessClassName">PAID</category>
+            <wsj:articletype>Heard on the Street</wsj:articletype>
+        </item>
+    </channel>
+</rss>
