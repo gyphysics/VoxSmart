@@ -39,6 +39,7 @@ public sealed class InformationSourceFinancialEntityExtractorTests
         var result = await _sut.GetInformationSourcesContainingFinancialEntityData(reader.GetRssFeedItems(), entitySources, CancellationToken.None);
 
         Assert.That(result.Count, Is.EqualTo(1));
+        Assert.That(result.Single().Key.Id, Is.EqualTo("WP-WSJ-0001370316"));
         Assert.That(result.Single().Value[0].EntitySymbol, Is.EqualTo("BA"));
         Assert.That(result.Single().Value[1].EntitySymbol, Is.EqualTo("M"));
         Assert.That(result.Single().Value[2].EntitySymbol, Is.EqualTo("TGT"));
