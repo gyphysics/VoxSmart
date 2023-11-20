@@ -16,7 +16,7 @@ public sealed class InformationSourceFinancialEntityExtractorTests
     public void SetUp() => _sut = new();
 
     [Test]
-    public async Task ExtractsCorrectInformation()
+    public async Task ExtractsFinancialEntitiesFromInformationSource()
     {
         var reader = new RssReader(Options.Create(new RssReaderSettings { Uri = Path.Combine(Path.GetDirectoryName(new Uri(Assembly.GetExecutingAssembly().Location).LocalPath)!, "DataSources", "RssFeed.xml") }));
 
